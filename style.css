@@ -1,0 +1,32 @@
+.container {
+    min-width: 320px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.description{
+    font-family: "Roboto Flex", sans-serif;
+    padding: 17px  27px ;
+    color: #837003;
+}
+
+.description span a {
+    font-weight: bold;
+    color:  #837003;
+    text-decoration: none;
+}
+
+.title{
+    text-align: center;
+    font-family: "Roboto Flex", sans-serif;
+    color:  #837003;
+    text-shadow: 0 0 4px  #FFD700;
+  
+}
+
+.description a:hover {
+    color: #685902;
+}
