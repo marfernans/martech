@@ -9,7 +9,8 @@
 
 .description{
     font-family: "Roboto Flex", sans-serif;
-    padding: 17px  27px ;
+    margin: 0 auto;
+    width: 320px;
     color: #837003;
 }
 
@@ -22,6 +23,7 @@
 .title{
     text-align: center;
     font-family: "Roboto Flex", sans-serif;
+    padding: 17px;
     color:  #837003;
     text-shadow: 0 0 4px  #FFD700;
   
