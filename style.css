@@ -1,17 +1,19 @@
 .container {
-    min-width: 320px;
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    min-width: 320px;
+    height: 100vh;
     background-color: rgb(255, 255, 255);
 }
 
 .description{
+
     font-family: "Roboto Flex", sans-serif;
     margin: 0 auto;
     width: 320px;
     color: #837003;
+ 
 }
 
 .description span a {
